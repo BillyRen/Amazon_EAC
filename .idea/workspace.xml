@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d596e02-1552-4c50-880e-24b1be36ad9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaiveBay.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/average.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Amazon_EAC.iws" />
@@ -37,12 +37,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NaiveBay.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DataIO.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataIO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="54" selection-start="327" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="589">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NaiveBay.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NaiveBay.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="33" selection-start="1064" selection-end="1064" vertical-scroll-proportion="-0.23913044" vertical-offset="753" max-vertical-offset="1121">
+            <state line="53" column="10" selection-start="1632" selection-end="1632" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="1121">
               <folding>
                 <element signature="e#150#192#0" expanded="true" />
+                <marker date="1385103015921" expanded="true" signature="91:137" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1385103015921" expanded="true" signature="294:1593" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="average.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/average.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="28" selection-start="250" selection-end="250" vertical-scroll-proportion="0.36239782" vertical-offset="0" max-vertical-offset="367">
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,6 +102,7 @@
         <option value="$PROJECT_DIR$/DataIO.py" />
         <option value="$PROJECT_DIR$/DataExp.py" />
         <option value="$PROJECT_DIR$/NaiveBay.py" />
+        <option value="$PROJECT_DIR$/average.py" />
       </list>
     </option>
   </component>
@@ -96,7 +119,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -347,14 +370,14 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.4996277" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.4996277" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32993197" sideWeight="0.4996277" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.4996277" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25390917" sideWeight="0.6717687" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25390917" sideWeight="0.670068" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5003723" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3282313" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -409,6 +432,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DataExp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="13" selection-start="2057" selection-end="2062" vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="1482">
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/logistic_regression_updated.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="250" column="23" selection-start="8632" selection-end="8632" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="5377">
@@ -420,25 +452,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataIO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="657" selection-end="657" vertical-scroll-proportion="0.9293478" vertical-offset="0" max-vertical-offset="589">
+        <state line="11" column="54" selection-start="327" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="589">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="13" selection-start="2057" selection-end="2062" vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="1482">
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NaiveBay.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="33" selection-start="1064" selection-end="1064" vertical-scroll-proportion="-0.23913044" vertical-offset="753" max-vertical-offset="1121">
+        <state line="53" column="10" selection-start="1632" selection-end="1632" vertical-scroll-proportion="0.0" vertical-offset="753" max-vertical-offset="1121">
           <folding>
             <element signature="e#150#192#0" expanded="true" />
+            <marker date="1385103015921" expanded="true" signature="91:137" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1385103015921" expanded="true" signature="294:1593" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/average.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="28" selection-start="250" selection-end="250" vertical-scroll-proportion="0.36239782" vertical-offset="0" max-vertical-offset="367">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
